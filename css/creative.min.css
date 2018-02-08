@@ -286,7 +286,7 @@ header.masthead .header-content .header-content-inner p {
     text-align: center;
     opacity: 0;
     color: #fff;
-    background: #377DC0;
+    background: rgba(201, 219, 220, .9);
     -webkit-transition: all .9s;
     -moz-transition: all .9s;
     transition: all .9s;
